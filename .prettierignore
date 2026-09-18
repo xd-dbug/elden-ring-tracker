@@ -1,0 +1,4 @@
+dist
+node_modules
+src/data/bosses.snapshot.json
+docs/PLAN.md

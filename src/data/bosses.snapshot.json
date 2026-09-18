@@ -1,0 +1,1274 @@
+[
+  {
+    "slug": "abductor-virgins",
+    "name": "Abductor Virgins",
+    "image": null,
+    "region": "Mount Gelmir",
+    "location": "Volcano Manor",
+    "description": "Deadly mechanical constructs who wield massive blades.",
+    "drops": [
+      "10.000 Runes",
+      "Inquisitor's Girandole"
+    ]
+  },
+  {
+    "slug": "alecto-black-knife-ringleader",
+    "name": "Alecto, Black Knife Ringleader",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69b4ba0al0i1uk6s98t1nbtxunt.png",
+    "region": "Liurnia of the Lakes",
+    "location": "Ringleader's Evergoal, Liurnia of the Lakes",
+    "description": "Remarkably agile and aggressive warrior. Dangerous even for those with shield coverage...",
+    "drops": [
+      "8.000 Runes",
+      "Black Knife Tiche"
+    ]
+  },
+  {
+    "slug": "alabaster-lord",
+    "name": "Alabaster Lord",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69b85929l0i1ukc4l2up7yp9v0i.png",
+    "region": "Liurnia of the Lakes",
+    "location": "Royal Grave Evergaol, Liurnia of the Lakes",
+    "description": "An Evergaol prisoner wielding a vicious sword and the void with murderous intent.",
+    "drops": [
+      "3.600 Runes",
+      "Meteorite"
+    ]
+  },
+  {
+    "slug": "adan-thief-of-fire",
+    "name": "Adan, Thief Of Fire",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69a3ca37l0i1ukd1lq14ctafbk.png",
+    "region": "Liurnia of the Lakes",
+    "location": "Malefactor's Evergaol",
+    "description": "An evergaol prisoner and former battle mage, Adan wields a spiked flail and uses stolen knowledge of fire magic to great effect.",
+    "drops": [
+      "3.800 Runes",
+      "Flame of the Fell God"
+    ]
+  },
+  {
+    "slug": "ancient-dragon-lansseax",
+    "name": "Ancient Dragon Lansseax",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69a63610l0i1ukyx7xgx6vf0zoa.png",
+    "region": "Altus Plateau",
+    "location": "Altus Plateau",
+    "description": "Lansseax was the sister of Fortissax. It is said that she took the from of a human to commune with the knights as a priestess of the ancient dragon cult.",
+    "drops": [
+      "60.000 Runes",
+      "Lansseax's Glaive"
+    ]
+  },
+  {
+    "slug": "ancestor-spirit",
+    "name": "Ancestor Spirit",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69590896l0i1ul0hnmor8iyf9xd.png",
+    "region": "Limgrave",
+    "location": "Siofra River",
+    "description": "A glowing spirit that takes the form of a large deer, making it a menacing threat when charging at targets.",
+    "drops": [
+      "13.000 Runes",
+      "Ancestral Follower Ashes"
+    ]
+  },
+  {
+    "slug": "ancient-hero-of-zamor",
+    "name": "Ancient Hero Of Zamor",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69878c4al0i1ul0i7dsfou8igrk.png",
+    "region": "Weeping Peninsula",
+    "location": "Weeping Evergaol, Giant-Conquering Hero's Grave",
+    "description": "Noticeably agile, frost-made creature suceptible to magic attacks.",
+    "drops": [
+      "5,400 Runes",
+      "Radagon's Scarseal",
+      "83,000 Runes",
+      "Zamor Curved Sword",
+      "Zamor Mask",
+      "Zamor Armor",
+      "Zamor Bracelets",
+      "Zamor Legwraps"
+    ]
+  },
+  {
+    "slug": "beast-clergyman",
+    "name": "Beast Clergyman",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f697240ecl0i1ul21nevug9wq54e.png",
+    "region": "Caelid",
+    "location": "Crumbling Farum Azula",
+    "description": "Temporarily overtaken by their bestial rage, the Beast Clergyman attacks ferociously, throwing rocks and themselves at their foes. Calm their aggression and return them to their senses.",
+    "drops": [
+      "N/A"
+    ]
+  },
+  {
+    "slug": "astel-stars-of-darkness",
+    "name": "Astel, Stars Of Darkness",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69bcfd7dl0i1ul502rklvi8tx62.png",
+    "region": "Consecrated Snowfield",
+    "location": "Yelough Anix Tunnel in Consecrated Snowfield",
+    "description": "A hostile, massive Dragon-Fly creature. Menacing and extremely powerful.",
+    "drops": [
+      "120000 Runes",
+      "Meteorite of Astel"
+    ]
+  },
+  {
+    "slug": "beast-of-farum-azula",
+    "name": "Beast Of Farum Azula",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69d4387al0i1ulpqqumwqw05j3c.png",
+    "region": "Limgrave",
+    "location": "Groveside Cave",
+    "description": "Underground-living creature found at Groveside Cave",
+    "drops": [
+      "1000 Runes",
+      "Flamedrake Talisman"
+    ]
+  },
+  {
+    "slug": "beastman-of-farum-azula",
+    "name": "Beastman Of Farum Azula",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69d7fe72l0i1ultk418yedh25s7.png",
+    "region": "Dragonbarrow",
+    "location": "Groveside Cave, Dragonbarrow Cave",
+    "description": "The beasts of Groveside Cave rally around the prowess of the Beastman of Farum Azula",
+    "drops": [
+      "1000 Runes",
+      "Flamedrake Talisman",
+      "65,000 Runes",
+      "Flamedrake Talisman +2"
+    ]
+  },
+  {
+    "slug": "bell-bearing-hunter",
+    "name": "Bell Bearing Hunter",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69c4aacel0i1uluegh15idblimv.png",
+    "region": "Dragonbarrow",
+    "location": "Warmaster's Shack, Northern Stormhill, Church of Vows, East Liurnia, Hermit Merchant's Shack, Leyndell Royal Captial, Dragonbarrow, North Caelid",
+    "description": "Menacing and slow-paced, it wields a large, red-glowing sword and a shield combined with a full body armor and a chilling cape.",
+    "drops": [
+      "2700 Runes",
+      "Bone Peddler's Bell Bearing"
+    ]
+  },
+  {
+    "slug": "black-blade-kindred",
+    "name": "Black Blade Kindred",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69a61779l0i1ulv0a3ru8iy0zh5.png",
+    "region": "Dragonbarrow",
+    "location": "Caelid, Forbidden Lands",
+    "description": "Imposing Gargoyle wielding a massive armament",
+    "drops": [
+      "88,000 Runes",
+      "Gargoyle's Blackblade",
+      "Gargoyle's Black Halberd",
+      "60,000 Runes",
+      "Gargoyle's Black Axe",
+      "Gargoyle's Black Blades"
+    ]
+  },
+  {
+    "slug": "black-knife-assassin",
+    "name": "Black Knife Assassin",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69bd3c06l0i1ulx2jxbiogta1i.png",
+    "region": "Limgrave",
+    "location": "Deathtouched Catacombs, Black Knife CatacombsSage's Cave",
+    "description": "Relentless and agile dark figures carrying a ",
+    "drops": [
+      "1,600 Runes",
+      "Assassin's Crimson Dagger",
+      "1, 600 Runes",
+      "Assassin's Cerulean Dagger",
+      "Sage's Cave",
+      "?? Runes",
+      "Concealing Veil",
+      "11,339 Runes",
+      "Black Knife"
+    ]
+  },
+  {
+    "slug": "bloodhound-knight-darriwil",
+    "name": "Bloodhound Knight Darriwil",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69637e92l0i1um8wqsflgk3i9yr.png",
+    "region": "Limgrave",
+    "location": "Limgrave, Forlon Hound Evergaol",
+    "description": "The merciless bloodhounds attack with grace and agility, never backing down or giving a moment's rest.",
+    "drops": [
+      "1900 Runes",
+      "Bloodhound's Fang"
+    ]
+  },
+  {
+    "slug": "burial-tree-watchdog",
+    "name": "Burial Tree Watchdog",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f697f48d5l0i1umdbu7v5phffgq.png",
+    "region": "Limgrave",
+    "location": "Limgrave, Stormfoot Catacombs",
+    "description": "A large feline-hound looking guardian that serves as a \"Watchdog\"for the Burial Tree of the Stormfoot Catacombs.",
+    "drops": [
+      "800 Runes",
+      "Ash of War: Glintsword Arch"
+    ]
+  },
+  {
+    "slug": "cleanrot-knight",
+    "name": "Cleanrot Knight",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69563d15l0i1umhb4am3xzuib3g.png",
+    "region": "Liurnia of the Lakes",
+    "location": "Stillwater Cave, Liurnia of the Lakes",
+    "description": "Powerful, dexterous Knight capable of distanced, very rapid attacks. Its spear and sword are a threat to any light-armored fighter.",
+    "drops": [
+      "3,300 Runes",
+      "Winged Sword Insignia",
+      "Cleanrot Knight's Sword"
+    ]
+  },
+  {
+    "slug": "borealis-the-freezing-fog",
+    "name": "Borealis The Freezing Fog",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69d6ca41l0i1umlxg0j36mhrnzr.png",
+    "region": "Mountaintops of the Giants",
+    "location": "Mountaintops of the Giants",
+    "description": "Frost Dragon guarding the frozen lake of Mountaintop of Giants, emits a permanent blizzard.",
+    "drops": [
+      "100,000 Runes",
+      "Dragon Heart"
+    ]
+  },
+  {
+    "slug": "commander-niall",
+    "name": "Commander Niall",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f698b7d2fl0i1umtkf7cu5a21hdw.png",
+    "region": "Mountaintop of the Giants",
+    "location": "Mountaintops of the Giants",
+    "description": "Commander Niall is a tall and built knight with a peg leg, clad in heavy armor, wielding a halberd that doubles as a battle standard. He is accompanied by two Spectral Banished Knights, one equipped with dual swords and the other equipped with a sword and shield.",
+    "drops": [
+      "90000 Runes",
+      "Veteran's Prosthesis"
+    ]
+  },
+  {
+    "slug": "commander-oneil",
+    "name": "Commander O'neil",
+    "image": null,
+    "region": "Caelid",
+    "location": "Caelid",
+    "description": "A large and imposing human commander who wields a halberd that doubles as a battle standard, rousing his spirit minions to battle with unquenchable fervor.",
+    "drops": [
+      "12,000 Runes",
+      "Commander's Standard",
+      "Unalloyed Gold Needle"
+    ]
+  },
+  {
+    "slug": "crucible-knight-ordovis",
+    "name": "Crucible Knight Ordovis",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f699b0755l0i1un48m87fngquaw.png",
+    "region": "Altus Plateau",
+    "location": "Auriza Hero's Grave",
+    "description": "Large, heavy and fully armored. With the ability to materialize fiery wings and attack from above. Attacks with the huge power of Ordivis's Greatsword and a Greatshield. Slow, but extremely tough and highly dangerous.",
+    "drops": [
+      "28000 Runes",
+      "Ordovis's Greatsword",
+      "Crucible Axe Helm",
+      "Crucible Axe Armor",
+      "Crucible Gauntlets",
+      "Crucible Greaves"
+    ]
+  },
+  {
+    "slug": "crystalians",
+    "name": "Crystalians",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f695b37c1l0i1ungf7vjojqaf4zp.png",
+    "region": "Altus Plateau",
+    "location": "Academy Crystal Cave, Altus Tunnel",
+    "description": "Crystal energy in the form of a human with devastating power.",
+    "drops": [
+      "3300 Runes",
+      "Crystal Release",
+      "1800 Runes",
+      "Somberstone Miner's Bell Bearing (2)",
+      "3000 Runes",
+      "Smithing-Stone Miner's Bell Bearing (1)",
+      "7000 Runes",
+      "Crystal Torrent"
+    ]
+  },
+  {
+    "slug": "deathbird",
+    "name": "Deathbird",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69e151d8l0i1uo19hl8r6l0snmo.png",
+    "region": "Limgrave",
+    "location": "Limgrave, Weeping Peninsula, Liurnia of the Lakes",
+    "description": "A bipedal bird with arms and a bird skull for a head and is found in various locations",
+    "drops": [
+      "3,900 Runes",
+      "Blue-Feathered Branchsword",
+      "Sacrifical Axe",
+      "Red-Feathered Branchsword"
+    ]
+  },
+  {
+    "slug": "decaying-ekzykes",
+    "name": "Decaying Ekzykes",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69bcc1cdl0i1uoai2hm5tcbuhh2.png",
+    "region": "Caelid",
+    "location": "Caelid",
+    "description": "A pale white dragon — its scales blighted by the same scarlet rot that plagues the region of Caelid. It silently waits along the southern highway, awaiting unsuspecting travelers to fall prey to its deathly onslaught.",
+    "drops": [
+      "38,000 Runes",
+      "Dragon Heart"
+    ]
+  },
+  {
+    "slug": "demi-human-chief",
+    "name": "Demi-human Chief",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f6961da46l0i1uoh7hemoben3dtg.png",
+    "region": "Limgrave",
+    "location": "Coastal Cave",
+    "description": "The darkness of Coastal Cave hides a den of those who may look almost human, but are certainly not.",
+    "drops": [
+      "900 Runes",
+      "Tailoring Tools",
+      "Sewing Needle"
+    ]
+  },
+  {
+    "slug": "demi-human-queen-maggie",
+    "name": "Demi-human Queen Maggie",
+    "image": null,
+    "region": "Mount Gelmir",
+    "location": "Mt. Gelmir",
+    "description": "Sovereign Demi-Human creature roaming the lands of Mt. Gelmir",
+    "drops": [
+      "13000 Runes",
+      "Memory Stone",
+      "Golden Rune [1]"
+    ]
+  },
+  {
+    "slug": "divine-bridge-golem",
+    "name": "Divine Bridge Golem",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69518792l0i1up7fr7vzvqcmzf.png",
+    "region": "Altus Plateau",
+    "location": "Lyendell, Royal Capital",
+    "description": "Enormously large and lethargic Golem that slowly storms into battle when it becomes aware of your presence.",
+    "drops": [
+      "2992 Runes"
+    ]
+  },
+  {
+    "slug": "demi-human-queen-margot",
+    "name": "Demi-human Queen Margot",
+    "image": null,
+    "region": "Mount Gelmir",
+    "location": "Mt. Gelmir",
+    "description": "Sovereign Demi-Human creature concealed within isolated caves.",
+    "drops": [
+      "11,000 Runes",
+      "Jar Cannon"
+    ]
+  },
+  {
+    "slug": "draconic-tree-sentinel",
+    "name": "Draconic Tree Sentinel",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69625d6el0i1upqw478c5kvsjv3.png",
+    "region": "Altus Plateau",
+    "location": "Capital Outskirts Crumbling Farum Azula",
+    "description": "Massive knight clad in golden armor atop a giant horse.",
+    "drops": [
+      "50,000 Runes",
+      "Dragon Greatclaw",
+      "Dragonclaw Shield"
+    ]
+  },
+  {
+    "slug": "dragonkin-soldier",
+    "name": "Dragonkin Soldier",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69de1071l0i1uprrms3umg3rug.png",
+    "region": "Limgrave",
+    "location": "Siofra River, Lake of Rot",
+    "description": "A large, hostile humanoid creature awaken from its drowse straight into battle.",
+    "drops": [
+      "16000 Runes",
+      "Dragon Halberd"
+    ]
+  },
+  {
+    "slug": "cemetery-shade",
+    "name": "Cemetery Shade",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69b43b78l0i1upyrupf0wna8q7a.png",
+    "region": "Caelid",
+    "location": "Tombsward Catacombs, Black Knife Catacombs,Caelid Catacombs, ",
+    "description": "Amorphous and shadowy being belonging to the catacombs",
+    "drops": [
+      "2200 Runes",
+      "Lhutel the Headless",
+      "xx Runes",
+      "Twinsage Sorcerer Ashes",
+      "Kindred of Rot Ashes"
+    ]
+  },
+  {
+    "slug": "crucible-knight",
+    "name": "Crucible Knight",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69a6fae3l0i1uq63au7m71cs8mh.png",
+    "region": "Altus Plateau",
+    "location": "Stormhill Evergaol,, Stormveil Castle,, Auriza Hero's Grave",
+    "description": "A formidable, dexterous fighter skilled in melee combat.",
+    "drops": [
+      "2100 Runes",
+      "Aspects of the Crucible: Tail",
+      "1500 Runes",
+      "Aspects of the Crucible: Horns"
+    ]
+  },
+  {
+    "slug": "dragonkin-soldier-of-nokstella",
+    "name": "Dragonkin Soldier Of Nokstella",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f699200d2l0i1uqbs9w1ijmp2ner.png",
+    "region": "Limgrave",
+    "location": "Ainsel River",
+    "description": "Huge humanoid-like creature located at the underground caves of Uhl Palace Ruins",
+    "drops": [
+      "12000 Runes",
+      "Frozen Lightning Spear"
+    ]
+  },
+  {
+    "slug": "dragonlord-placidusax",
+    "name": "Dragonlord Placidusax",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69bf3366l0i1uqds10qc8exqn1ik.png",
+    "region": "Mountaintops of the Giants",
+    "location": "Crumbling Farum Azula",
+    "description": "A massive in size, two-headed dragon capable of immense acts of annihilation.",
+    "drops": [
+      "280000 Runes",
+      "Remembrance of the Dragonlord"
+    ]
+  },
+  {
+    "slug": "elden-beast",
+    "name": "Elden Beast",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f699dadfbl0i1uqmgi50oii11eaj.png",
+    "region": "Altus Plateau",
+    "location": "Elden Throne",
+    "description": "It is said that long ago, the Greater Will sent a golden star bearing a beast into the Lands Between, which would later become the Elden Ring.",
+    "drops": [
+      "500000 Runes",
+      "Elden Remembrance"
+    ]
+  },
+  {
+    "slug": "elemer-of-the-briar",
+    "name": "Elemer Of The Briar",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f695cb903l0i1uqqf40ik8th6wqw.png",
+    "region": "Altus Plateau",
+    "location": "The Shaded Castle",
+    "description": "Wielding the stolen sword from the Marais family, Elemer of the Briar stands at the top of the castle waiting.",
+    "drops": [
+      "24,000 Runes",
+      "Marais Executioner's Sword",
+      "Briar Greatshield"
+    ]
+  },
+  {
+    "slug": "esgar-priest-of-blood",
+    "name": "Esgar, Priest Of Blood",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69579c3dl0i1uqxt6ul73e103ur.png",
+    "region": "Altus Plateau",
+    "location": "Leyndell, Royal Capital",
+    "description": "A highly aggressive humanoid priest",
+    "drops": [
+      "30000 Runes",
+      "Lord of Blood's Exultation"
+    ]
+  },
+  {
+    "slug": "erdtree-avatar",
+    "name": "Erdtree Avatar",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f6969fb51l0i1ur3o74ppc7h3gl5.png",
+    "region": "Liunia of the Lakes",
+    "location": "Minor Erdtree (Weeping Peninsula), Minor Erdtree (Liurnia Southwest), Minor Erdtree (Liurnia Northeast), Minor Erdtree (Caelid), Minor Erdtree (Mountaintops East)",
+    "description": "A large headless create which resembles a tree stump.",
+    "drops": [
+      "3,600 Runes",
+      "Opaline Bubbletear",
+      "Crimsonburst Crystal Tear",
+      "5,800 Runes",
+      "Cerulean Crystal Tear",
+      "Ruptured Crystal Tear",
+      "5,800 Runes",
+      "Holy-Shrouding Cracked Tear",
+      "Lightning-Shrouding Cracked Tear",
+      "Magic-Shrouding Cracked Tear",
+      "9,600 Runes",
+      "Greenburst Crystal Tear",
+      "Flame-Shrouding Cracked Tear",
+      "70,000 Runes",
+      "Cerulean Crystal Tear",
+      "Crimson Bubbletear"
+    ]
+  },
+  {
+    "slug": "fallingstar-beast",
+    "name": "Fallingstar Beast",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f6969fb51l0i1ur3o74ppc7h3gl5.png",
+    "region": "Caelid",
+    "location": "Sellia Crystal Tunnel, Caelid, Altus Plateau",
+    "description": "A massive quadruped with a long spiky tail and a head reminiscent of a centipede's, with massive mandibles protruding from its face. It behaves much like a bull and appears to have seismic powers, allowing it to control the earth within its chamber.",
+    "drops": [
+      "7,600 Runes",
+      "Somberstone Miner's Bell Bearing (1)",
+      "Smithing Stone (7) x 5",
+      "Somber Smithing Stone (6)",
+      "Gravity Stone Chunk x 4"
+    ]
+  },
+  {
+    "slug": "fell-twins",
+    "name": "Fell Twins",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69c5a361l0i1urf5b4r5s5cf125.png",
+    "region": "Altus Plateau",
+    "location": "Capital Outskirts",
+    "description": "Two bulky ogre-like creatures fighting side by side with red-hot armament",
+    "drops": [
+      "29,000 Runes",
+      "Omenkiller Rollo"
+    ]
+  },
+  {
+    "slug": "fias-champions",
+    "name": "Fia's Champions",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f695d42c3l0i1uriibjok1ydfodg.png",
+    "region": "Limgrave",
+    "location": "Deeproot Depths",
+    "description": "Five invaders summoned in an endurance combat in three waves.",
+    "drops": [
+      "40000 Runes",
+      "Fia's Mist"
+    ]
+  },
+  {
+    "slug": "flying-dragon-agheel",
+    "name": "Flying Dragon Agheel",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69725115l0i1urx3t47u0gfs43.png",
+    "region": "Limgrave",
+    "location": "Limgrave, Dragon-Burnt Ruins",
+    "description": "A feared-by-most massive dragon located within the Dragon-Burnt Ruins in Limgrave",
+    "drops": [
+      "5000 Runes",
+      "Dragon Heart"
+    ]
+  },
+  {
+    "slug": "fire-giant",
+    "name": "Fire Giant",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69ba1aa7l0i1us08w3dodkoeju.png",
+    "region": "Mountaintops of the Giants",
+    "location": "Mountaintops of the Giants",
+    "description": "Upon realizing the flames of their forge would never die, Queen Marika, marked him with a curse. \"O trifling giant, mayest thou tend thy, flame for eternity.",
+    "drops": [
+      "180,000 Runes",
+      "Remembrance of the Fire Giant"
+    ]
+  },
+  {
+    "slug": "flying-dragon-greyll",
+    "name": "Flying Dragon Greyll",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69846e66l0i1us1stxjbqloi1z.png",
+    "region": "Caelid",
+    "location": "Caelid",
+    "description": "A large grey dragon, Flying Dragon Greyll patrols the bridge breathing fire and flying down on those trying to cross.",
+    "drops": [
+      "80,000 Runes",
+      "Dragon Heart"
+    ]
+  },
+  {
+    "slug": "frenzied-duelist",
+    "name": "Frenzied Duelist",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f696b2a70l0i1us26mtvbp7p85.png",
+    "region": "Caelid",
+    "location": "Gaol Cave",
+    "description": "A humanoid with heavy armor and a massive axe.",
+    "drops": [
+      "6700 Runes",
+      "Putrid Corpse Ashes"
+    ]
+  },
+  {
+    "slug": "god-devouring-serpent",
+    "name": "God-devouring Serpent",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f699fafc0l0i1usmk2s2oybvx44a.png",
+    "region": "Mount Gelmir",
+    "location": "Mt. Gelmir",
+    "description": "A massive, menacing reptile that poses a remarkable threat.",
+    "drops": [
+      "See Rykard, Lord of Blasphemy"
+    ]
+  },
+  {
+    "slug": "glintstone-dragon-smarag",
+    "name": "Glintstone Dragon Smarag",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f6953dec4l0i1uso41jlanmo9c4v.png",
+    "region": "Liurnia of the Lakes",
+    "location": "Liurnia of the Lakes",
+    "description": "A fearsome magic dragon with crystalized magic stone for scales. Jealously guards the entrance to the Academy's Crystal Cave.",
+    "drops": [
+      "14,699 Runes",
+      "Dragon Heart"
+    ]
+  },
+  {
+    "slug": "glintstone-dragon-adula",
+    "name": "Glintstone Dragon Adula",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f695d390el0i1usszzihpctlfb2.png",
+    "region": "Liurnia of the Lakes",
+    "location": "Liurnia of The Lakes",
+    "description": "A powerful and devastating dragon, a menace for all type of fighters.",
+    "drops": [
+      "120,000 Runes",
+      "Adula's Moonblade",
+      "3x Dragon Heart",
+      "No Runes"
+    ]
+  },
+  {
+    "slug": "godefroy-the-grafted",
+    "name": "Godefroy The Grafted",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69c4aefal0i1usvodp9osviy7v.png",
+    "region": "Altus Plateau",
+    "location": "Golden Lineage Evergaol",
+    "description": "A member of Godrick the Grafted's family imprisoned by the Dragon Knight during the War of the Shattering.",
+    "drops": [
+      "26,000 Runes (NG)",
+      "Godfrey Icon"
+    ]
+  },
+  {
+    "slug": "godfrey-the-grafted",
+    "name": "Godfrey The Grafted",
+    "image": null,
+    "region": "Altus Plateau",
+    "location": "Golden Lineage Evergaol",
+    "description": "",
+    "drops": [
+      "26,000 Runes",
+      "Other Drops",
+      "Godfrey Icon"
+    ]
+  },
+  {
+    "slug": "godfrey-first-elden-lord-hoarah-loux",
+    "name": "Godfrey, First Elden Lord (hoarah Loux)",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69a82a2el0i1uta5rxvqv53g7e.png",
+    "region": "Altus Plateau",
+    "location": "Leyndell, Capital of Ash",
+    "description": "I've given thee courtesy enough. Now I fight as Hoarah Loux. Warrior!",
+    "drops": [
+      "300,000  Runes",
+      "Remembrance of Hoarah Loux"
+    ]
+  },
+  {
+    "slug": "godfrey-first-elden-lord-golden-shade",
+    "name": "Godfrey, First Elden Lord (golden Shade)",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f697d2396l0i1utcv9km3qxcnt6m.png",
+    "region": "Altus Plateau",
+    "location": "Leyndell, Royal Capital",
+    "description": "Physical form of Godfrey, First Elden Lord",
+    "drops": [
+      "80,000 Runes",
+      "Talisman Pouch"
+    ]
+  },
+  {
+    "slug": "godrick-the-grafted",
+    "name": "Godrick The Grafted",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f6953f0d5l0i1uthl5j30bc50wdo.png",
+    "region": "Limgrave",
+    "location": "Stormveil Castle",
+    "description": "Godrick the Grafted is the ruler of Stormveil Castle, wielding a large golden axe. He has grafted many arms on his body, a symbol of power to all those who might try to depose him.",
+    "drops": [
+      "Godrick's Great Rune, Remembrance of the Grafted"
+    ]
+  },
+  {
+    "slug": "godskin-apostle",
+    "name": "Godskin Apostle",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69c1bc31l0i1utrgxwhdp1csdis.png",
+    "region": "Caelid",
+    "location": "Spiritcaller's Cave",
+    "description": "The apostles, one said to serve Destined Death, are wielders of the god-slaying black flame. But after their defeat by Maliketh, the Black Blade, the source of their power was sealed away.",
+    "drops": [
+      "70k Runes",
+      "Godskin Swaddling Cloth",
+      "Black Flame Ritual"
+    ]
+  },
+  {
+    "slug": "godskin-apostle-and-godskin-noble",
+    "name": "Godskin Apostle And Godskin Noble",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69c68871l0i1utx4r38kpdj1yil.png",
+    "region": "Mountaintops of the Giants",
+    "location": "Spiritcaller Cave, Mountaintops of the Giants",
+    "description": "They are found in their spirit forms, spawned by the opportunist Spirit-Caller Snail.",
+    "drops": [
+      "70,000 Runes",
+      "Godskin Swaddling Cloth x1",
+      "Black Flame Ritual x1"
+    ]
+  },
+  {
+    "slug": "death-rite-bird",
+    "name": "Death Rite Bird",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69e15137l0i1uu7e0w9qynlhveh.png",
+    "region": "Mountaintops of the Giants",
+    "location": "Mountaintops of the Giants",
+    "description": "Immense bird skeleton with crow-like features. Rushes to battle from above while wielding a giant spear.",
+    "drops": [
+      "77,000 Runes",
+      "Death Ritual Spear",
+      "18,000 Runes",
+      "Death' Poker"
+    ]
+  },
+  {
+    "slug": "godskin-noble",
+    "name": "Godskin Noble",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69814439l0i1uuifby3b0bn9gs.png",
+    "region": "Mount Gelmir",
+    "location": "Spiritcaller's Cave,Volcano Manor, ",
+    "description": "The most aggresive of the Godskin.",
+    "drops": [
+      "70,000 Runes",
+      "Godskin Swaddling Cloth",
+      "Black Flame Ritual",
+      "50,000 Runes",
+      "Godskin Stitcher",
+      "Noble Presence"
+    ]
+  },
+  {
+    "slug": "grafted-scion",
+    "name": "Grafted Scion",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69bf253bl0i1uuma3733w2zwodm.png",
+    "region": "Liurnia of the Lakes",
+    "location": "Tutorial Area",
+    "description": "An amorphous blob that wields two swords and a shield, and appears to be grafted with multiple arms.",
+    "drops": [
+      "1176 Runes",
+      "583 runes-currency-elden-ring-wiki-guide-18 Runes",
+      "3200 Runes",
+      "1283 Runes",
+      "Larval Tear",
+      "2313 runes-currency-elden-ring-wiki-guide-18 Runes",
+      "12800 Runes (NG+1)",
+      "Ornamental Straight Sword",
+      "Golden Beast Crest Shield"
+    ]
+  },
+  {
+    "slug": "great-wyrm-theodorix",
+    "name": "Great Wyrm Theodorix",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f695140e9l0i1uuu2pjzqqsbskl.png",
+    "region": "Mountaintops of the Giants",
+    "location": "North of Albinauric Rise in Mountaintops of the Giants",
+    "description": "A dragon wyrm with immense power.",
+    "drops": [
+      "180,000 Runes",
+      "Dragon Heart x3"
+    ]
+  },
+  {
+    "slug": "hoarah-loux-warrior",
+    "name": "Hoarah Loux, Warrior",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f695022a1l0i1uv9aohy5ip9yh9f.png",
+    "region": "Altus Plateau",
+    "location": "Leyndell, Ashen Capital.",
+    "description": "Chieftain of the Badland Warriors.",
+    "drops": [
+      "300000 Runes",
+      "Remembrance of Hoarah Loux"
+    ]
+  },
+  {
+    "slug": "kindred-of-rot",
+    "name": "Kindred Of Rot",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69a5abc3l0i1uvfn18gmmqaf8jvj.png",
+    "region": "Mount Gelmir",
+    "location": "Mt. Gelmir",
+    "description": "Large, prawn-like creatures skilled at melee combat. Its Pest's Glaive poses a menace when wielded by these agile beings.",
+    "drops": [
+      "10000 Runes",
+      "Kindred of Rot's Exultation"
+    ]
+  },
+  {
+    "slug": "guardian-golem",
+    "name": "Guardian Golem",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69cbe6cbl0i1uvgek1x2hoimz99.png",
+    "region": "Limgrave",
+    "location": "Highroad Cave",
+    "description": "The Guardian Golem, magical constructs that has been cut and chiseled from stone. It is the sole guardian of the Highroad Cave who holds a precious item.",
+    "drops": [
+      "1700 Runes",
+      "Blue Dancer Charm"
+    ]
+  },
+  {
+    "slug": "godskin-duo",
+    "name": "Godskin Duo",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f698b6791l0i1uvgjwlxwarfpe7a.png",
+    "region": "Altus Plateau",
+    "location": "Crumbling Farum Azula",
+    "description": "A complementing pair of creatures extremely well versed in dual-battling. These beings achieve an exceptionally balance in combat, resulting in a devastating synergy.",
+    "drops": [
+      "170000 Runes",
+      "Smithing-Stone Miner's Bell Bearing [4]",
+      "Ash of War: Black Flame Tornado"
+    ]
+  },
+  {
+    "slug": "leonine-misbegotten",
+    "name": "Leonine Misbegotten",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69644c82l0i1uw7sqlk2v4b6bfg.png",
+    "region": "Weeping Peninsula",
+    "location": "Castle Morne, Weeping Peninsula",
+    "description": "Aggressive and feral, the Misbegotten sees nothing but rage",
+    "drops": [
+      "3800 Runes",
+      "Grafted Blade Greatsword"
+    ]
+  },
+  {
+    "slug": "lichdragon-fortissax",
+    "name": "Lichdragon Fortissax",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f699223e7l0i1uwcol7wflmcgajb.png",
+    "region": "Limgrave",
+    "location": "Deeproot Depths",
+    "description": "Massive four winged black dragon with the ability to wield lightning.",
+    "drops": [
+      "90000 Runes",
+      "Remembrance of the Lichdragon"
+    ]
+  },
+  {
+    "slug": "mad-pumpkin-head",
+    "name": "Mad Pumpkin Head",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69a078e0l0i1uwdp4xqjq6cpbxl.png",
+    "region": "Limgrave",
+    "location": "Waypoint Ruins, Limgrave, Caelem Ruins, Caelid",
+    "description": "A huge ogre-looking creature that has a large pumpkin helmet worn on its head. It wields a massive flail and seems to be guarding something or someone against intruders.",
+    "drops": [
+      "6300 Runes"
+    ]
+  },
+  {
+    "slug": "magma-wyrm",
+    "name": "Magma Wyrm",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69bfa759l0i1uwfa0yrdvzcov1i.png",
+    "region": "Caelid",
+    "location": "Gael Tunnel",
+    "description": "A large lesser dragon with bronze-colored scales covering its body. Magma Wyrms inhabit deep cave systems and volcanos, thriving within lava-flooded environments. ",
+    "drops": [
+      "7500 Runes",
+      "Dragon Heart",
+      "Moonveil"
+    ]
+  },
+  {
+    "slug": "lion-guardian",
+    "name": "Lion Guardian",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f696318a4l0i1uwi4cr4u43opdj5.png",
+    "region": "Limgrave",
+    "location": "Stormveil Castle",
+    "description": "The Lion Guardian of Stormveil has been coerced into service by cruel means",
+    "drops": [
+      "2350"
+    ]
+  },
+  {
+    "slug": "malenia-blade-of-miquella",
+    "name": "Malenia, Blade Of Miquella",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69a48308l0i1ux3rigvv37tx84f.png",
+    "region": "Consecrated Snowfield",
+    "location": "Elphael, Brace of the Haligtree",
+    "description": "...Heed my words. I am Malenia. Blade of Miquella. And I have never known defeat.",
+    "drops": [
+      "Malenia's Great Rune",
+      "Remembrance of the Rot Goddess",
+      "480,000 Runes"
+    ]
+  },
+  {
+    "slug": "maliketh-the-black-blade",
+    "name": "Maliketh, The Black Blade",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69dbf58cl0i1ux7vft8wsk6ejbb.png",
+    "region": "Altus Plateau",
+    "location": "Crumbling Farum Azula",
+    "description": "O, Death. Become my blade once more.",
+    "drops": [
+      "220,000 Runes",
+      "Other Drops",
+      "Remembrance of the Black Blade"
+    ]
+  },
+  {
+    "slug": "miranda-the-blighted-bloom",
+    "name": "Miranda The Blighted Bloom",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f699a40dfl0i1ux9v66kv7dyxcqx.png",
+    "region": "Weeping Peninsula",
+    "location": "Weeping Peninsula: Tombsward Cave, Altus Plains: Perfumer's Grotto",
+    "description": "A giant poison flower that is deadlier than it looks.",
+    "drops": [
+      "2100 Runes",
+      "Viridian Amber Medallion",
+      "8500 Runes",
+      "Great Omenkiller Cleaver"
+    ]
+  },
+  {
+    "slug": "mimic-tear",
+    "name": "Mimic Tear",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69e11c75l0i1uxa6gb2wpb12ipb.png",
+    "region": "Limgrave",
+    "location": "Nokron, Eternal City",
+    "description": "An eccentric being capable of taking a comprehensive shape of its adversary, ranging from body features to armament.",
+    "drops": [
+      "10000 Runes",
+      "Larval Tear x2",
+      "Silver Tear Mask"
+    ]
+  },
+  {
+    "slug": "misbegotten-crusader",
+    "name": "Misbegotten Crusader",
+    "image": null,
+    "region": "Mountaintops of the Giants",
+    "location": "Cave of the Forlorn in Mountaintops of the Giants",
+    "description": "The Lord of Frenzied Flame.",
+    "drops": [
+      "93000 Runes",
+      "Golden Order Greatsword"
+    ]
+  },
+  {
+    "slug": "mohg-lord-of-blood",
+    "name": "Mohg, Lord Of Blood",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f697f4363l0i1uy2tk9e7g2jqcu.png",
+    "region": "Limgrave",
+    "location": "Mohgwyn Palace",
+    "description": "Welcome, honored guest. To the birthplace of our Dynasty!",
+    "drops": [
+      "420,000 Runes",
+      "Mohg's Great Rune",
+      "Remembrance of the Blood Lord"
+    ]
+  },
+  {
+    "slug": "mohg-the-omen",
+    "name": "Mohg, The Omen",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f697f4363l0i1uy2tk9e7g2jqcu.png",
+    "region": "Altus Plateau",
+    "location": "Subterranean Shunning-Grounds",
+    "description": "The Lord of Frenzied Flame",
+    "drops": [
+      "100,000 Runes",
+      "Bloodflame Talons"
+    ]
+  },
+  {
+    "slug": "magma-wyrm-makar",
+    "name": "Magma Wyrm Makar",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69d3101al0i1uyefex03ulrqazi.png",
+    "region": "Altus Plateau",
+    "location": "Ruin-Strewn Precipice",
+    "description": "Aggressive Fire Wyrm guarding the entrance to Altus Plains from any who attempt to bypass the lift",
+    "drops": [
+      "24000 Runes",
+      "Magma Wyrm's Scalesword",
+      "72000 Runes",
+      "Dragon Heart"
+    ]
+  },
+  {
+    "slug": "necromancer-garris",
+    "name": "Necromancer Garris",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69d237f0l0i1uytr06ed4gz92qdj.png",
+    "region": "Altus Plateau",
+    "location": "Sage's Cave, Altus Plateau",
+    "description": "A humanoid necromancer draped in a red cloth. Efficient in the death sorceries.",
+    "drops": [
+      "0 Runes",
+      "Family Heads"
+    ]
+  },
+  {
+    "slug": "nox-swordstress-nox-priest",
+    "name": "Nox Swordstress & Nox Priest",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f6963b02cl0i1uyzthmeyyq45wna.png",
+    "region": "Caelid",
+    "location": "Sellia, Town of Sorcery, Caelid",
+    "description": "A duo of warriors comprised of the female Swordstress, who uses a sword with a whip-like function to attack at medium range and a male Priest who uses spells from afar.",
+    "drops": [
+      "6,400 Runes",
+      "Nox Flowing Sword"
+    ]
+  },
+  {
+    "slug": "nights-cavalry",
+    "name": "Night's Cavalry",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69a6c3fcl0i1uyzw7a7ssn0qlpp.png",
+    "region": "Limgrave",
+    "location": "Many",
+    "description": "Imposing knight figure atop a dark steed, wielding a large flail or halberd.",
+    "drops": [
+      "2400 Runes",
+      "Ash of War: Repeating Thrust",
+      "3400 Runes",
+      "Ash of War: Barricade Shield",
+      "5600 Runes",
+      "Ash of War: Ice Spear",
+      "8500 Runes",
+      "Ash of War: Poison Moth Flight",
+      "10000 Runes",
+      "Ash of War: Phantom Slash",
+      "36000 Runes",
+      "Ash of War: Phantom Slash",
+      "42000 Runes",
+      "Ash of War:Bloodhound's Step",
+      "84000 Runes",
+      "Night's Calvary Set"
+    ]
+  },
+  {
+    "slug": "omenkiller",
+    "name": "Omenkiller",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69a1be26l0i1uz1kl2dyuibof4d.png",
+    "region": "Liurnia of the Lakes",
+    "location": "Village of the Albinaurics, Volcano Manor, Perfumer's Grotto",
+    "description": "An omninous figure wielding two serrated swords.",
+    "drops": [
+      "4900 Runes",
+      "Crucible Knot Talisman",
+      "8400 Runes",
+      "Great Omenkiller Cleaver",
+      "Great Omenkiller Cleaver"
+    ]
+  },
+  {
+    "slug": "onyx-lord",
+    "name": "Onyx Lord",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69a36cf8l0i1uz6gmzy0dr777k.png",
+    "region": "Liurnia of the Lakes",
+    "location": "Sealed Tunnel, Royal Grave Evergaol",
+    "description": "The Onyx Lords, who had skin of stone, were called lords in reverential fear of their destructive power.",
+    "drops": [
+      "16000 Runes",
+      "Onyx Lord's Greatsword"
+    ]
+  },
+  {
+    "slug": "perfumer-tricia",
+    "name": "Perfumer Tricia",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f699438b8l0i1uze1493a9h5ipk3.png",
+    "region": "Mount Gelmir",
+    "location": "Unsightly Catacombs, Mt. Gelmir",
+    "description": "A long range spellcaster complemented by an armored, short-distance warrior.",
+    "drops": [
+      "9400 Runes",
+      "Other Drops"
+    ]
+  },
+  {
+    "slug": "putrid-grave-warden-duelist",
+    "name": "Putrid Grave Warden Duelist",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f699ad704l0i1uzmqfup4jxyto7.png",
+    "region": "Consecrated Snowfield",
+    "location": "Consecrated Snowfield Catacombs, Consecrated Snowfield.",
+    "description": "Grave Wardens protect the secrets of the ancients, but the corruption of the land has affected them too",
+    "drops": [
+      "78,000 Runes",
+      "Great Grave Glovewort",
+      "Rotten Gravekeeper Cloak"
+    ]
+  },
+  {
+    "slug": "pumpkin-head",
+    "name": "Pumpkin Head",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f697e343bl0i1uznxx67p026exqf.png",
+    "region": "Weeping Peninsula",
+    "location": "Castle Morne, Weeping Peninsula",
+    "description": "The breaking disrupted the flora and fauna of the region. Some took a rather intense liking to the larger plants that emerged",
+    "drops": [
+      "291 Runes",
+      "Pumpkin Helm",
+      "Sanctuary Stone"
+    ]
+  },
+  {
+    "slug": "putrid-tree-spirit",
+    "name": "Putrid Tree Spirit",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69cfaee3l0i1uzongoyxg1dptid.png",
+    "region": "Caelid",
+    "location": "War-Dead Catacombs",
+    "description": "A blood-rotted tree that has found life despite the death that consumes it.",
+    "drops": [
+      "67,200 Runes ",
+      "Redmane Knight Ogha Spirit Ashes",
+      "Golden Seed"
+    ]
+  },
+  {
+    "slug": "radagon-of-the-golden-order",
+    "name": "Radagon Of The Golden Order",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69bc8bd6l0i1v03619u4s9j9ql.png",
+    "region": "Altus Plateau",
+    "location": "Elden Throne",
+    "description": "Lord Radagon was a great champion, possessed of flowing red locks. He came to these lands at the head of a great golden host, when he met Lady Rennala in battle. He soon repented his territorial transgressions though, and became husband to the Carian Queen. However. When Godfrey, first Elden Lord, was hounded from the Lands Between, Radagon left Rennala to return to the Erdtree Capital, becoming Queen Marika's second husband and King Consort. Taking the title... of second Elden Lord.",
+    "drops": [
+      "N/A"
+    ]
+  },
+  {
+    "slug": "red-wolf-of-radagon",
+    "name": "Red Wolf Of Radagon",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f6992c3e3l0i1v0af3d14p4dcgzx.png",
+    "region": "Liurnia of the Lakes",
+    "location": "Raya Lucaria Academy, Liurnia of the Lakes",
+    "description": "Fierce guardian and protector of its master, even when it has long left.",
+    "drops": [
+      "14000 Runes",
+      "Memory Stone"
+    ]
+  },
+  {
+    "slug": "red-wolf-of-the-champion",
+    "name": "Red Wolf Of The Champion",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69cf967fl0i1v0cmt73nix34p0c.png",
+    "region": "Mount Gelmir",
+    "location": "Gelmir Hero's Grave",
+    "description": "A ferocious red wolf with large fangs and blistering speed.",
+    "drops": [
+      "21000 Runes",
+      "Bloodhound Knight Floh"
+    ]
+  },
+  {
+    "slug": "regal-ancestor-spirit",
+    "name": "Regal Ancestor Spirit",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69ae5092l0i1v0k714w3s2jz8tj.png",
+    "region": "Limgrave",
+    "location": "Nokron, Eternal City",
+    "description": "A spirit glowing in pale blue light, suspended in the air and taking the shape of a huge deer.",
+    "drops": [
+      "24000 Runes",
+      "Remembrance of the Regal Ancestor"
+    ]
+  },
+  {
+    "slug": "royal-knight-loretta",
+    "name": "Royal Knight Loretta",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69b19e80l0i1v0x2eima4yhdbd.png",
+    "region": "Liurnia of the Lakes",
+    "location": "Caria Manor",
+    "description": "The eternal guardian of Caria Manor fervently defends her domain atop the Royal Moongazing Grounds. Loretta uses her greatbow to rain destruction on all who would dare approach the estate grounds.",
+    "drops": [
+      "10,000 Runes",
+      "Loretta's Greatbow",
+      "Ash of War: Loretta's Slash"
+    ]
+  },
+  {
+    "slug": "royal-revenant",
+    "name": "Royal Revenant",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69de0562l0i1v105zzs817wea9m.png",
+    "region": "Liurnia of the Lakes",
+    "location": "Kingsrealm Ruins, Liurnia of the Lakes",
+    "description": "An obscene and disturbing abomination, blend of a spider-like creature and human limbs resulting in a quite resourceful fighter at close range.",
+    "drops": [
+      "3,100 Runes"
+    ]
+  },
+  {
+    "slug": "runebear",
+    "name": "Runebear",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f699179aal0i1v13n497m1yhps2s.png",
+    "region": "Weeping Peninsula",
+    "location": "Earthbore Cave, Weeping Peninsula",
+    "description": "Ferocious, robust creature that's huge in size and remarkably agressive.",
+    "drops": [
+      "2600 Runes",
+      "Spelldrake Talisman"
+    ]
+  },
+  {
+    "slug": "rykard-lord-of-blasphemy",
+    "name": "Rykard, Lord Of Blasphemy",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f696d979al0i1v1775oof02bi8oh.png",
+    "region": "Mount Gelmir",
+    "location": "Mt. Gelmir",
+    "description": "Join the Serpent King, as family... Together, we will devour the very gods!",
+    "drops": [
+      "130,000 Runes",
+      "Rykard's Great Rune",
+      "Remembrance of the Blasphemous"
+    ]
+  },
+  {
+    "slug": "scaly-misbegotten",
+    "name": "Scaly Misbegotten",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f698d3cc6l0i1v18wptud2du5ts.png",
+    "region": "Weeping Peninsula",
+    "location": "Morne Tunnel",
+    "description": "A troll like scavenger with an insatiable taste for blood.",
+    "drops": [
+      "2000 Runes",
+      "Rusted Anchor"
+    ]
+  },
+  {
+    "slug": "sir-gideon-ofnir-the-all-knowing",
+    "name": "Sir Gideon Ofnir, The All-knowing",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69ca8b2al0i1v1pg987jdl4cd68.png",
+    "region": "Altus Plateau",
+    "location": "Leyndell, Capital of Ash",
+    "description": "Sir Gideon Ofnir, now far from the books and immersed in battle.",
+    "drops": [
+      "180,000 Runes",
+      "All-Knowing Helm",
+      "All-Knowing Armor",
+      "All-Knowing Gauntlets",
+      "All-Knowing Greaves",
+      "Scepter of the All-Knowing"
+    ]
+  },
+  {
+    "slug": "soldier-of-godrick",
+    "name": "Soldier Of Godrick",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f6982dbf7l0i1v1r3i4p5cy7kvcs.png",
+    "region": "Limgrave",
+    "location": "Stranded Graveyard",
+    "description": "An esteemed high rank soldier, who wields a massive sword and wears his armor proudly.",
+    "drops": [
+      "400 Runes",
+      "2000 Runes (NG+1)"
+    ]
+  },
+  {
+    "slug": "spirit-caller-snail",
+    "name": "Spirit-caller Snail",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f6987c932l0i1v1t55h6j6fm1l83.png",
+    "region": "Liurnia of the Lakes",
+    "location": "Road's End CatacombsSpiritcaller's Cave",
+    "description": "The ultimate Spiritcaller.",
+    "drops": [
+      "3000 Runes",
+      "Glintstone Sorcerer Ashes ",
+      "170000 Runes",
+      "Smithing-Stone Miner's Bell Bearing [4]",
+      "Ash of War: Black Flame Tornado"
+    ]
+  }
+]

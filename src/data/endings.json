@@ -1,0 +1,47 @@
+{
+  "_comment": "DRAFT seed data — verify every entry against a wiki before relying on it (plan section 4.2).",
+  "commonRequired": [
+    "morgott-the-omen-king",
+    "fire-giant",
+    "godskin-duo",
+    "maliketh-the-black-blade",
+    "sir-gideon-ofnir-the-all-knowing",
+    "godfrey-first-elden-lord-hoarah-loux",
+    "radagon-of-the-golden-order",
+    "elden-beast"
+  ],
+  "groups": [
+    {
+      "id": "great-runes",
+      "label": "Defeat any 2 Great Rune bearers",
+      "pick": 2,
+      "options": [
+        "godrick-the-grafted",
+        "rennala-queen-of-the-full-moon",
+        "starscourge-radahn",
+        "rykard-lord-of-blasphemy",
+        "morgott-the-omen-king",
+        "mohg-lord-of-blood",
+        "malenia-blade-of-miquella"
+      ]
+    }
+  ],
+  "endings": [
+    { "id": "fracture", "name": "Age of Fracture", "extraRequired": [], "notes": "" },
+    {
+      "id": "stars",
+      "name": "Age of the Stars",
+      "extraRequired": ["starscourge-radahn", "astel-naturalborn-of-the-void"],
+      "notes": "Requires completing Ranni's questline."
+    },
+    { "id": "frenzy", "name": "Lord of Frenzied Flame", "extraRequired": [], "notes": "" },
+    { "id": "order", "name": "Age of Order", "extraRequired": [], "notes": "" },
+    {
+      "id": "duskborn",
+      "name": "Age of the Duskborn",
+      "extraRequired": ["starscourge-radahn", "lichdragon-fortissax"],
+      "notes": ""
+    },
+    { "id": "despair", "name": "Blessing of Despair", "extraRequired": [], "notes": "" }
+  ]
+}
