@@ -7,6 +7,6 @@ export default defineConfig({
   base: '/elden-ring-tracker/',
   plugins: [react()],
   test: {
-    include: ['tests/**/*.test.js'],
+    include: ['tests/**/*.test.{js,jsx}'],
   },
 })

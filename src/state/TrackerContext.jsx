@@ -1,16 +1,13 @@
 import { createContext, useContext, useEffect, useReducer } from 'react'
 import { readJSON, writeJSON } from '../lib/storage.js'
-import { initialState, trackerReducer } from './trackerReducer.js'
+import { loadState, trackerReducer } from './trackerReducer.js'
 
-const STORAGE_KEY = 'ertracker:v1'
+export const STORAGE_KEY = 'ertracker:v1'
 
 const TrackerContext = createContext(null)
 
 export function TrackerProvider({ children }) {
-  const [state, dispatch] = useReducer(trackerReducer, null, () => ({
-    ...initialState,
-    ...readJSON(STORAGE_KEY, {}),
-  }))
+  const [state, dispatch] = useReducer(trackerReducer, null, () => loadState(readJSON(STORAGE_KEY)))
 
   useEffect(() => {
     writeJSON(STORAGE_KEY, state)
