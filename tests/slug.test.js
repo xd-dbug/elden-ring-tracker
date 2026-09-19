@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { slugify } from '../src/lib/slug.js'
-import { normalizeBosses } from '../src/lib/normalize.js'
+import { normalizeBosses, tidyName } from '../src/lib/normalize.js'
 
 describe('slugify', () => {
   it('lowercases and hyphenates', () => {
@@ -20,5 +20,20 @@ describe('normalizeBosses', () => {
     ])
     expect(out).toHaveLength(1)
     expect(out[0].name).toBe('Alecto, Black Knife Ringleader')
+  })
+})
+
+describe('normalizeBosses tidying', () => {
+  it('lowercases small words and capitalizes after a parenthesis', () => {
+    expect(tidyName('Godfrey, First Elden Lord (hoarah Loux)')).toBe(
+      'Godfrey, First Elden Lord (Hoarah Loux)',
+    )
+    expect(tidyName('Mohg, The Omen')).toBe('Mohg, the Omen')
+    expect(tidyName('The Elden Beast')).toBe('The Elden Beast')
+  })
+
+  it('fixes region typos from the API', () => {
+    const [boss] = normalizeBosses([{ name: 'Erdtree Avatar', region: 'Liunia of the Lakes' }])
+    expect(boss.region).toBe('Liurnia of the Lakes')
   })
 })

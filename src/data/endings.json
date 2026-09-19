@@ -15,6 +15,7 @@
     {
       "id": "great-runes",
       "label": "Defeat any 2 Great Rune bearers",
+      "short": "Great Rune",
       "note": "Two Great Runes open the way into Leyndell. Morgott is inside Leyndell, so his rune can't count toward these two.",
       "pick": 2,
       "options": [

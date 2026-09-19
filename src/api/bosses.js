@@ -3,8 +3,9 @@ import { readJSON, writeJSON } from '../lib/storage.js'
 import snapshot from '../data/bosses.snapshot.json'
 import curated from '../data/bosses.curated.json'
 
-// Bumped to v2 when paging was added: v1 caches only hold the first 100 bosses.
-const CACHE_KEY = 'ertracker:bosses-cache:v2'
+// Bump when normalization changes, so browsers drop caches built by the old rules.
+// v2: paging (v1 held only 100 bosses). v3: tidied names and region fixes.
+const CACHE_KEY = 'ertracker:bosses-cache:v3'
 const CACHE_TTL_MS = 7 * 24 * 60 * 60 * 1000
 
 /** @returns {Promise<{ bosses: object[], source: 'cache' | 'api' | 'stale-cache' | 'snapshot' }>} */

@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import {
+  getBossRoles,
   getGroupStatus,
   getProgress,
   getRequiredForEnding,
@@ -132,5 +133,15 @@ describe('endings.json', () => {
   it('keeps Morgott out of the Great Rune group, since his rune comes after the Leyndell gate', () => {
     expect(endings.commonRequired).toContain('morgott-the-omen-king')
     expect(endings.groups[0].options).not.toContain('morgott-the-omen-king')
+  })
+})
+
+describe('getBossRoles', () => {
+  it('marks fixed bosses and group options, including bosses that are both', () => {
+    const roles = getBossRoles('quest', data)
+    expect(roles.get('a')).toEqual({ fixed: true, groups: [] })
+    expect(roles.get('r2')).toEqual({ fixed: false, groups: [data.groups[0]] })
+    expect(roles.get('r1')).toEqual({ fixed: true, groups: [data.groups[0]] })
+    expect(roles.has('x')).toBe(false)
   })
 })

@@ -37,7 +37,7 @@
   },
   {
     "slug": "adan-thief-of-fire",
-    "name": "Adan, Thief Of Fire",
+    "name": "Adan, Thief of Fire",
     "image": "https://eldenring.fanapis.com/images/bosses/17f69a3ca37l0i1ukd1lq14ctafbk.png",
     "region": "Liurnia of the Lakes",
     "location": "Malefactor's Evergaol",
@@ -73,7 +73,7 @@
   },
   {
     "slug": "ancient-hero-of-zamor",
-    "name": "Ancient Hero Of Zamor",
+    "name": "Ancient Hero of Zamor",
     "image": "https://eldenring.fanapis.com/images/bosses/17f69878c4al0i1ul0i7dsfou8igrk.png",
     "region": "Weeping Peninsula",
     "location": "Weeping Evergaol, Giant-Conquering Hero's Grave",
@@ -102,7 +102,7 @@
   },
   {
     "slug": "astel-stars-of-darkness",
-    "name": "Astel, Stars Of Darkness",
+    "name": "Astel, Stars of Darkness",
     "image": "https://eldenring.fanapis.com/images/bosses/17f69bcfd7dl0i1ul502rklvi8tx62.png",
     "region": "Consecrated Snowfield",
     "location": "Yelough Anix Tunnel in Consecrated Snowfield",
@@ -114,7 +114,7 @@
   },
   {
     "slug": "beast-of-farum-azula",
-    "name": "Beast Of Farum Azula",
+    "name": "Beast of Farum Azula",
     "image": "https://eldenring.fanapis.com/images/bosses/17f69d4387al0i1ulpqqumwqw05j3c.png",
     "region": "Limgrave",
     "location": "Groveside Cave",
@@ -126,7 +126,7 @@
   },
   {
     "slug": "beastman-of-farum-azula",
-    "name": "Beastman Of Farum Azula",
+    "name": "Beastman of Farum Azula",
     "image": "https://eldenring.fanapis.com/images/bosses/17f69d7fe72l0i1ultk418yedh25s7.png",
     "region": "Dragonbarrow",
     "location": "Groveside Cave, Dragonbarrow Cave",
@@ -224,7 +224,7 @@
   },
   {
     "slug": "borealis-the-freezing-fog",
-    "name": "Borealis The Freezing Fog",
+    "name": "Borealis the Freezing Fog",
     "image": "https://eldenring.fanapis.com/images/bosses/17f69d6ca41l0i1umlxg0j36mhrnzr.png",
     "region": "Mountaintops of the Giants",
     "location": "Mountaintops of the Giants",
@@ -238,7 +238,7 @@
     "slug": "commander-niall",
     "name": "Commander Niall",
     "image": "https://eldenring.fanapis.com/images/bosses/17f698b7d2fl0i1umtkf7cu5a21hdw.png",
-    "region": "Mountaintop of the Giants",
+    "region": "Mountaintops of the Giants",
     "location": "Mountaintops of the Giants",
     "description": "Commander Niall is a tall and built knight with a peg leg, clad in heavy armor, wielding a halberd that doubles as a battle standard. He is accompanied by two Spectral Banished Knights, one equipped with dual swords and the other equipped with a sword and shield.",
     "drops": [
@@ -424,7 +424,7 @@
   },
   {
     "slug": "dragonkin-soldier-of-nokstella",
-    "name": "Dragonkin Soldier Of Nokstella",
+    "name": "Dragonkin Soldier of Nokstella",
     "image": "https://eldenring.fanapis.com/images/bosses/17f699200d2l0i1uqbs9w1ijmp2ner.png",
     "region": "Limgrave",
     "location": "Ainsel River",
@@ -460,7 +460,7 @@
   },
   {
     "slug": "elemer-of-the-briar",
-    "name": "Elemer Of The Briar",
+    "name": "Elemer of the Briar",
     "image": "https://eldenring.fanapis.com/images/bosses/17f695cb903l0i1uqqf40ik8th6wqw.png",
     "region": "Altus Plateau",
     "location": "The Shaded Castle",
@@ -473,7 +473,7 @@
   },
   {
     "slug": "esgar-priest-of-blood",
-    "name": "Esgar, Priest Of Blood",
+    "name": "Esgar, Priest of Blood",
     "image": "https://eldenring.fanapis.com/images/bosses/17f69579c3dl0i1uqxt6ul73e103ur.png",
     "region": "Altus Plateau",
     "location": "Leyndell, Royal Capital",
@@ -487,7 +487,7 @@
     "slug": "erdtree-avatar",
     "name": "Erdtree Avatar",
     "image": "https://eldenring.fanapis.com/images/bosses/17f6969fb51l0i1ur3o74ppc7h3gl5.png",
-    "region": "Liunia of the Lakes",
+    "region": "Liurnia of the Lakes",
     "location": "Minor Erdtree (Weeping Peninsula), Minor Erdtree (Liurnia Southwest), Minor Erdtree (Liurnia Northeast), Minor Erdtree (Caelid), Minor Erdtree (Mountaintops East)",
     "description": "A large headless create which resembles a tree stump.",
     "drops": [
@@ -635,7 +635,7 @@
   },
   {
     "slug": "godefroy-the-grafted",
-    "name": "Godefroy The Grafted",
+    "name": "Godefroy the Grafted",
     "image": "https://eldenring.fanapis.com/images/bosses/17f69c4aefal0i1usvodp9osviy7v.png",
     "region": "Altus Plateau",
     "location": "Golden Lineage Evergaol",
@@ -647,7 +647,7 @@
   },
   {
     "slug": "godfrey-the-grafted",
-    "name": "Godfrey The Grafted",
+    "name": "Godfrey the Grafted",
     "image": null,
     "region": "Altus Plateau",
     "location": "Golden Lineage Evergaol",
@@ -660,7 +660,7 @@
   },
   {
     "slug": "godfrey-first-elden-lord-hoarah-loux",
-    "name": "Godfrey, First Elden Lord (hoarah Loux)",
+    "name": "Godfrey, First Elden Lord (Hoarah Loux)",
     "image": "https://eldenring.fanapis.com/images/bosses/17f69a82a2el0i1uta5rxvqv53g7e.png",
     "region": "Altus Plateau",
     "location": "Leyndell, Capital of Ash",
@@ -672,7 +672,7 @@
   },
   {
     "slug": "godfrey-first-elden-lord-golden-shade",
-    "name": "Godfrey, First Elden Lord (golden Shade)",
+    "name": "Godfrey, First Elden Lord (Golden Shade)",
     "image": "https://eldenring.fanapis.com/images/bosses/17f697d2396l0i1utcv9km3qxcnt6m.png",
     "region": "Altus Plateau",
     "location": "Leyndell, Royal Capital",
@@ -684,7 +684,7 @@
   },
   {
     "slug": "godrick-the-grafted",
-    "name": "Godrick The Grafted",
+    "name": "Godrick the Grafted",
     "image": "https://eldenring.fanapis.com/images/bosses/17f6953f0d5l0i1uthl5j30bc50wdo.png",
     "region": "Limgrave",
     "location": "Stormveil Castle",
@@ -708,7 +708,7 @@
   },
   {
     "slug": "godskin-apostle-and-godskin-noble",
-    "name": "Godskin Apostle And Godskin Noble",
+    "name": "Godskin Apostle and Godskin Noble",
     "image": "https://eldenring.fanapis.com/images/bosses/17f69c68871l0i1utx4r38kpdj1yil.png",
     "region": "Mountaintops of the Giants",
     "location": "Spiritcaller Cave, Mountaintops of the Giants",
@@ -794,7 +794,7 @@
   },
   {
     "slug": "kindred-of-rot",
-    "name": "Kindred Of Rot",
+    "name": "Kindred of Rot",
     "image": "https://eldenring.fanapis.com/images/bosses/17f69a5abc3l0i1uvfn18gmmqaf8jvj.png",
     "region": "Mount Gelmir",
     "location": "Mt. Gelmir",
@@ -890,7 +890,7 @@
   },
   {
     "slug": "malenia-blade-of-miquella",
-    "name": "Malenia, Blade Of Miquella",
+    "name": "Malenia, Blade of Miquella",
     "image": "https://eldenring.fanapis.com/images/bosses/17f69a48308l0i1ux3rigvv37tx84f.png",
     "region": "Consecrated Snowfield",
     "location": "Elphael, Brace of the Haligtree",
@@ -903,7 +903,7 @@
   },
   {
     "slug": "maliketh-the-black-blade",
-    "name": "Maliketh, The Black Blade",
+    "name": "Maliketh, the Black Blade",
     "image": "https://eldenring.fanapis.com/images/bosses/17f69dbf58cl0i1ux7vft8wsk6ejbb.png",
     "region": "Altus Plateau",
     "location": "Crumbling Farum Azula",
@@ -916,7 +916,7 @@
   },
   {
     "slug": "miranda-the-blighted-bloom",
-    "name": "Miranda The Blighted Bloom",
+    "name": "Miranda the Blighted Bloom",
     "image": "https://eldenring.fanapis.com/images/bosses/17f699a40dfl0i1ux9v66kv7dyxcqx.png",
     "region": "Weeping Peninsula",
     "location": "Weeping Peninsula: Tombsward Cave, Altus Plains: Perfumer's Grotto",
@@ -955,7 +955,7 @@
   },
   {
     "slug": "mohg-lord-of-blood",
-    "name": "Mohg, Lord Of Blood",
+    "name": "Mohg, Lord of Blood",
     "image": "https://eldenring.fanapis.com/images/bosses/17f697f4363l0i1uy2tk9e7g2jqcu.png",
     "region": "Limgrave",
     "location": "Mohgwyn Palace",
@@ -968,7 +968,7 @@
   },
   {
     "slug": "mohg-the-omen",
-    "name": "Mohg, The Omen",
+    "name": "Mohg, the Omen",
     "image": "https://eldenring.fanapis.com/images/bosses/17f697f4363l0i1uy2tk9e7g2jqcu.png",
     "region": "Altus Plateau",
     "location": "Subterranean Shunning-Grounds",
@@ -1122,7 +1122,7 @@
   },
   {
     "slug": "radagon-of-the-golden-order",
-    "name": "Radagon Of The Golden Order",
+    "name": "Radagon of the Golden Order",
     "image": "https://eldenring.fanapis.com/images/bosses/17f69bc8bd6l0i1v03619u4s9j9ql.png",
     "region": "Altus Plateau",
     "location": "Elden Throne",
@@ -1133,7 +1133,7 @@
   },
   {
     "slug": "red-wolf-of-radagon",
-    "name": "Red Wolf Of Radagon",
+    "name": "Red Wolf of Radagon",
     "image": "https://eldenring.fanapis.com/images/bosses/17f6992c3e3l0i1v0af3d14p4dcgzx.png",
     "region": "Liurnia of the Lakes",
     "location": "Raya Lucaria Academy, Liurnia of the Lakes",
@@ -1145,7 +1145,7 @@
   },
   {
     "slug": "red-wolf-of-the-champion",
-    "name": "Red Wolf Of The Champion",
+    "name": "Red Wolf of the Champion",
     "image": "https://eldenring.fanapis.com/images/bosses/17f69cf967fl0i1v0cmt73nix34p0c.png",
     "region": "Mount Gelmir",
     "location": "Gelmir Hero's Grave",
@@ -1205,7 +1205,7 @@
   },
   {
     "slug": "rykard-lord-of-blasphemy",
-    "name": "Rykard, Lord Of Blasphemy",
+    "name": "Rykard, Lord of Blasphemy",
     "image": "https://eldenring.fanapis.com/images/bosses/17f696d979al0i1v1775oof02bi8oh.png",
     "region": "Mount Gelmir",
     "location": "Mt. Gelmir",
@@ -1230,7 +1230,7 @@
   },
   {
     "slug": "sir-gideon-ofnir-the-all-knowing",
-    "name": "Sir Gideon Ofnir, The All-knowing",
+    "name": "Sir Gideon Ofnir, the All-knowing",
     "image": "https://eldenring.fanapis.com/images/bosses/17f69ca8b2al0i1v1pg987jdl4cd68.png",
     "region": "Altus Plateau",
     "location": "Leyndell, Capital of Ash",
@@ -1246,7 +1246,7 @@
   },
   {
     "slug": "soldier-of-godrick",
-    "name": "Soldier Of Godrick",
+    "name": "Soldier of Godrick",
     "image": "https://eldenring.fanapis.com/images/bosses/17f6982dbf7l0i1v1r3i4p5cy7kvcs.png",
     "region": "Limgrave",
     "location": "Stranded Graveyard",

@@ -3,7 +3,7 @@ import { loadBosses } from '../src/api/bosses.js'
 import { fetchAllRawBosses, withCuratedBosses } from '../src/lib/normalize.js'
 import snapshot from '../src/data/bosses.snapshot.json'
 
-const CACHE_KEY = 'ertracker:bosses-cache:v2'
+const CACHE_KEY = 'ertracker:bosses-cache:v3'
 
 function memoryStorage() {
   const store = new Map()

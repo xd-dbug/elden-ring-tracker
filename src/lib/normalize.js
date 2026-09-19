@@ -18,18 +18,38 @@ export async function fetchAllRawBosses(fetchImpl = fetch) {
   return all
 }
 
-/** Trim names, add slugs, and drop duplicate bosses (the API lists some twice). */
+// Typos in the API's region values, so the region filter doesn't list them separately.
+const REGION_FIXES = {
+  'Liunia of the Lakes': 'Liurnia of the Lakes',
+  'Mountaintop of the Giants': 'Mountaintops of the Giants',
+}
+
+const SMALL_WORDS = new Set(['a', 'and', 'in', 'of', 'the'])
+
+/** The API title-cases every word: "Mohg, The Omen" -> "Mohg, the Omen", "(hoarah Loux)" -> "(Hoarah Loux)". */
+export function tidyName(name) {
+  return String(name)
+    .trim()
+    .split(/\s+/)
+    .map((word, i) => {
+      if (i > 0 && SMALL_WORDS.has(word.toLowerCase())) return word.toLowerCase()
+      return word.replace(/^(\(?)(\p{Ll})/u, (_, paren, c) => paren + c.toUpperCase())
+    })
+    .join(' ')
+}
+
+/** Tidy names, add slugs, fix regions, and drop duplicate bosses (the API lists some twice). */
 export function normalizeBosses(raw) {
   const bySlug = new Map()
   for (const boss of raw) {
-    const name = String(boss.name ?? '').trim()
+    const name = tidyName(boss.name ?? '')
     const slug = slugify(name)
     if (!slug || bySlug.has(slug)) continue
     bySlug.set(slug, {
       slug,
       name,
       image: boss.image || null,
-      region: boss.region ?? null,
+      region: REGION_FIXES[boss.region] ?? boss.region ?? null,
       location: boss.location ?? null,
       description: boss.description ?? '',
       drops: boss.drops ?? [],

@@ -65,3 +65,20 @@ export function getProgress(state, data) {
   const percent = total === 0 ? 0 : Math.round(((requiredDone + extrasDone) / total) * 100)
   return { requiredDone, requiredTotal, extrasDone, extrasTotal, percent }
 }
+
+/**
+ * Why each boss is required for an ending: fixed-required, and/or an option in some groups.
+ * Bosses that aren't required are absent from the map.
+ * @returns {Map<string, { fixed: boolean, groups: object[] }>}
+ */
+export function getBossRoles(endingId, data) {
+  const { fixed, groups } = getRequiredForEnding(endingId, data)
+  const roles = new Map()
+  const role = (slug) => {
+    if (!roles.has(slug)) roles.set(slug, { fixed: false, groups: [] })
+    return roles.get(slug)
+  }
+  fixed.forEach((slug) => (role(slug).fixed = true))
+  for (const group of groups) group.options.forEach((slug) => role(slug).groups.push(group))
+  return roles
+}
