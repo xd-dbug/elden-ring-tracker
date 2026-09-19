@@ -25,6 +25,48 @@ describe('trackerReducer', () => {
     expect(trackerReducer(state, { type: 'reset' })).toEqual(initialState)
   })
 
+  it('adds custom bosses with unique custom- slugs, optionally to the run', () => {
+    let state = trackerReducer(initialState, {
+      type: 'addCustomBoss',
+      name: '  Messmer the Impaler ',
+      region: 'Shadow Keep',
+      addToRun: true,
+    })
+    state = trackerReducer(state, {
+      type: 'addCustomBoss',
+      name: 'Messmer the Impaler',
+      region: '',
+    })
+    expect(state.customBosses).toEqual([
+      { slug: 'custom-messmer-the-impaler', name: 'Messmer the Impaler', region: 'Shadow Keep' },
+      { slug: 'custom-messmer-the-impaler-2', name: 'Messmer the Impaler' },
+    ])
+    expect(state.extras).toEqual(['custom-messmer-the-impaler'])
+    expect(trackerReducer(state, { type: 'addCustomBoss', name: '   ' })).toBe(state)
+  })
+
+  it('removes a custom boss and every reference to it', () => {
+    const state = {
+      ...initialState,
+      customBosses: [{ slug: 'custom-x', name: 'X' }],
+      defeated: ['custom-x', 'fire-giant'],
+      extras: ['custom-x'],
+      favorites: ['custom-x'],
+    }
+    expect(trackerReducer(state, { type: 'removeCustomBoss', slug: 'custom-x' })).toEqual({
+      ...initialState,
+      defeated: ['fire-giant'],
+    })
+  })
+
+  it('imports a saved state through loadState', () => {
+    const next = trackerReducer(initialState, {
+      type: 'import',
+      saved: { selectedEnding: 'order', defeated: ['a', 'a'], version: 1 },
+    })
+    expect(next).toEqual({ ...initialState, selectedEnding: 'order', defeated: ['a'] })
+  })
+
   it('ignores unknown actions', () => {
     expect(trackerReducer(initialState, { type: 'nope' })).toBe(initialState)
   })
@@ -56,7 +98,11 @@ describe('loadState', () => {
         selectedEnding: 7,
         defeated: ['a', 'a', null, 3, 'b'],
         extras: 'mohg',
-        customBosses: [{ slug: 'ok', name: 'Ok' }, { slug: 'no-name' }, null],
+        customBosses: [
+          { slug: 'ok', name: 'Ok', image: 'https://example.com/x.png' },
+          { slug: 'no-name' },
+          null,
+        ],
         unknownField: true,
       }),
     ).toEqual({

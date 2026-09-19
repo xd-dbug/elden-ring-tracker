@@ -5,6 +5,7 @@
   --text: #e8e2d4;
   --muted: #a39a86;
   --gold: #d4af5f;
+  --danger: #e0806b;
   --tab-height: 60px;
 
   color-scheme: dark;
@@ -569,4 +570,100 @@ a {
   border-color: var(--gold);
   background: #2e2717;
   color: var(--gold);
+}
+
+/* ---- Settings ---- */
+
+.status-line:empty {
+  display: none;
+}
+
+.status-line,
+.error {
+  padding: 8px 12px;
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--gold);
+  border-radius: 6px;
+  background: var(--surface);
+  font-size: 14px;
+}
+
+.error {
+  border-left-color: var(--danger);
+}
+
+.button-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 8px;
+}
+
+.file-btn {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+/* Kept focusable (not display: none) so keyboard users can open the file picker. */
+.file-btn input {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+}
+
+.file-btn:focus-within {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+}
+
+.custom-form {
+  display: grid;
+  gap: 12px;
+  justify-items: start;
+}
+
+.custom-form label:not(.checkbox) {
+  display: grid;
+  gap: 4px;
+  width: 100%;
+  font-size: 14px;
+}
+
+.checkbox {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 44px;
+}
+
+.checkbox input {
+  width: 22px;
+  height: 22px;
+  margin: 0;
+  accent-color: var(--gold);
+}
+
+.custom-list {
+  margin: 12px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.custom-list li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px;
+  min-height: 44px;
+  border-bottom: 1px solid var(--border);
+}
+
+.custom-list .link-btn {
+  margin-left: auto;
+}
+
+.toggle.danger {
+  border-color: var(--danger);
+  color: var(--danger);
 }

@@ -6,7 +6,7 @@ import { getProgress } from '../lib/progress.js'
 import { useTracker } from '../state/TrackerContext.jsx'
 
 export default function Endings() {
-  const { bosses } = useBosses()
+  const { bosses, loading } = useBosses()
   const { state, dispatch } = useTracker()
   const navigate = useNavigate()
   // The ending waiting for "Switch?" confirmation, if any.
@@ -43,9 +43,11 @@ export default function Endings() {
               <p className="ending-extra">
                 {ending.extraRequired.length === 0
                   ? 'No extra bosses beyond the common path.'
-                  : `+${ending.extraRequired.length} extra: ${ending.extraRequired
-                      .map((slug) => names.get(slug) ?? slug)
-                      .join(', ')}`}
+                  : loading
+                    ? `+${ending.extraRequired.length} extra bosses`
+                    : `+${ending.extraRequired.length} extra: ${ending.extraRequired
+                        .map((slug) => names.get(slug) ?? slug)
+                        .join(', ')}`}
               </p>
               {ending.notes && <p className="muted">{ending.notes}</p>}
               <p className="muted ending-done">
