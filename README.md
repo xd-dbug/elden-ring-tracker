@@ -29,7 +29,8 @@ npm run dev        # http://localhost:5173/elden-ring-tracker/
 ```
 src/
   api/bosses.js          fetch + cache, falls back to the snapshot
-  data/endings.json      curated ending -> required bosses (DRAFT, verify against a wiki)
+  data/endings.json      curated ending -> required bosses
+  data/bosses.curated.json  bosses endings need that the API lacks (Morgott, Rennala, Astel)
   data/bosses.snapshot.json
   lib/                   pure helpers: slug, normalize, storage, progress
   state/TrackerContext.jsx

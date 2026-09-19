@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "morgott-the-omen-king",
+    "name": "Morgott, the Omen King",
+    "image": null,
+    "region": "Leyndell, Royal Capital",
+    "location": "Elden Throne, Leyndell, Royal Capital",
+    "description": "Lord of Leyndell and the veiled Margit. Guards the Erdtree and holds Morgott's Great Rune.",
+    "drops": ["120,000 Runes", "Morgott's Great Rune", "Remembrance of the Omen King"]
+  },
+  {
+    "slug": "rennala-queen-of-the-full-moon",
+    "name": "Rennala, Queen of the Full Moon",
+    "image": null,
+    "region": "Liurnia of the Lakes",
+    "location": "Grand Library, Raya Lucaria Academy",
+    "description": "Head of the Carian royal family, found in the Academy's Grand Library.",
+    "drops": ["40,000 Runes", "Great Rune of the Unborn", "Remembrance of the Full Moon Queen"]
+  },
+  {
+    "slug": "astel-naturalborn-of-the-void",
+    "name": "Astel, Naturalborn of the Void",
+    "image": null,
+    "region": "Lake of Rot",
+    "location": "Grand Cloister, Lake of Rot",
+    "description": "A malformed star guarding the way onward in Ranni's questline.",
+    "drops": ["80,000 Runes", "Remembrance of the Naturalborn"]
+  }
+]

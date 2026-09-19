@@ -1,6 +1,7 @@
 {
-  "_comment": "DRAFT seed data — verify every entry against a wiki before relying on it (plan section 4.2).",
+  "_comment": "Curated ending -> required bosses (plan section 4.2). Slugs must exist in bosses.snapshot.json or bosses.curated.json; tests/progress.test.js checks this.",
   "commonRequired": [
+    "godfrey-first-elden-lord-golden-shade",
     "morgott-the-omen-king",
     "fire-giant",
     "godskin-duo",
@@ -14,34 +15,54 @@
     {
       "id": "great-runes",
       "label": "Defeat any 2 Great Rune bearers",
+      "note": "Two Great Runes open the way into Leyndell. Morgott is inside Leyndell, so his rune can't count toward these two.",
       "pick": 2,
       "options": [
         "godrick-the-grafted",
         "rennala-queen-of-the-full-moon",
         "starscourge-radahn",
         "rykard-lord-of-blasphemy",
-        "morgott-the-omen-king",
         "mohg-lord-of-blood",
         "malenia-blade-of-miquella"
       ]
     }
   ],
   "endings": [
-    { "id": "fracture", "name": "Age of Fracture", "extraRequired": [], "notes": "" },
+    {
+      "id": "fracture",
+      "name": "Age of Fracture",
+      "extraRequired": [],
+      "notes": "The default ending: mend the Elden Ring with no special questline."
+    },
     {
       "id": "stars",
       "name": "Age of the Stars",
       "extraRequired": ["starscourge-radahn", "astel-naturalborn-of-the-void"],
-      "notes": "Requires completing Ranni's questline."
+      "notes": "Requires completing Ranni's questline, which includes defeating the Baleful Shadow (an invader-style enemy in Ainsel River, only encountered after speaking to the Miniature Ranni doll). Radahn's defeat opens Nokron, where the Fingerslayer Blade is. The Dragonkin Soldier of Nokstella is optional and not part of the questline."
     },
-    { "id": "frenzy", "name": "Lord of Frenzied Flame", "extraRequired": [], "notes": "" },
-    { "id": "order", "name": "Age of Order", "extraRequired": [], "notes": "" },
+    {
+      "id": "frenzy",
+      "name": "Lord of Frenzied Flame",
+      "extraRequired": [],
+      "notes": "Accept the Flame of Frenzy from the Three Fingers beneath Leyndell. This locks you out of every other ending (Fracture, Stars, Order, Duskborn and Despair) unless you use Miquella's Needle in Dragonlord Placidusax's arena at Crumbling Farum Azula. That reversal is permanent and locks you out of this ending instead; Placidusax does not need to be fought."
+    },
+    {
+      "id": "order",
+      "name": "Age of Order",
+      "extraRequired": [],
+      "notes": "Requires completing Brother Corhyn and Goldmask's questline for the Mending Rune of Perfect Order."
+    },
     {
       "id": "duskborn",
       "name": "Age of the Duskborn",
-      "extraRequired": ["starscourge-radahn", "lichdragon-fortissax"],
-      "notes": ""
+      "extraRequired": ["starscourge-radahn", "fias-champions", "lichdragon-fortissax"],
+      "notes": "Requires completing Fia's questline in the Deeproot Depths, usually reached through Nokron after Radahn falls."
     },
-    { "id": "despair", "name": "Blessing of Despair", "extraRequired": [], "notes": "" }
+    {
+      "id": "despair",
+      "name": "Blessing of Despair",
+      "extraRequired": [],
+      "notes": "Requires completing the Dung Eater's questline for the Mending Rune of the Fell Curse."
+    }
   ]
 }

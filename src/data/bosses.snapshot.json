@@ -1270,5 +1270,90 @@
       "Smithing-Stone Miner's Bell Bearing [4]",
       "Ash of War: Black Flame Tornado"
     ]
+  },
+  {
+    "slug": "starscourge-radahn",
+    "name": "Starscourge Radahn",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69dc74fdl0i1v1wz3qrzn19aps8.png",
+    "region": "Caelid",
+    "location": "Caelid",
+    "description": "General Radahn is cursed ever to wander. Eaten from the inside, by Malenia's scarlet rot, his Wits are long gone. Now he gathers the corpses of former friends and foes alike, gorging on them, like a dog.",
+    "drops": [
+      "70,000 Runes",
+      "Remembrance of the Starscourge, Radahn's Great Rune"
+    ]
+  },
+  {
+    "slug": "tibia-mariner",
+    "name": "Tibia Mariner",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f6968dcfal0i1v1y8dnaop27j5qg.png",
+    "region": "Liurnia of the Lakes",
+    "location": "Summonwater Village, Liurnia of The Lakes, Wyndham Ruins",
+    "description": "Tibia Mariner is a spectral sailor capable of calling forth the aid of undead Skeleton creatures and is mainly found at northeast Summonwater Village in Limgrave, near the limits with Caelir. This is an optional boss as players must not defeat it in order to advance to the Legacy Dungeon.",
+    "drops": [
+      "2400 Runes",
+      "Deathroot",
+      "Skeletal Militiaman Ashes",
+      "4700 Runes",
+      "Deathroot",
+      "Skeletal Bandit Ashes",
+      "Deathroot",
+      "Tibia's Summons"
+    ]
+  },
+  {
+    "slug": "ulcerated-tree-spirit",
+    "name": "Ulcerated Tree Spirit",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f69621aadl0i1v2f5fkvee5z6719.png",
+    "region": "Mount Gelmir",
+    "location": "Mt. Gelmir",
+    "description": "A corrupted and deformed tree that lurks in Mt. Gelmir.",
+    "drops": [
+      "18,000 Runes",
+      "Leaden Hardtear",
+      "Cerulean Hidden Tear"
+    ]
+  },
+  {
+    "slug": "valiant-gargoyle",
+    "name": "Valiant Gargoyle",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f697500cal0i1v2hh14qewvbrwrn.png",
+    "region": "Limgrave",
+    "location": "Siofra Aqueduct",
+    "description": "Just like the wielder, the missing parts have been mended with corpse wax; a patchwork of champions.",
+    "drops": [
+      "30000 Runes",
+      "32000 Runes",
+      "Gargoyle's Greatsword",
+      "Gargoyle's Twinblade"
+    ]
+  },
+  {
+    "slug": "wormface",
+    "name": "Wormface",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f697500cal0i1v2hh14qewvbrwrn.png",
+    "region": "Altus Plateau",
+    "location": "Minor Erdtree (Altus Plateau)",
+    "description": "A ghastly blood rotted tree with the face of a hundred worms.",
+    "drops": [
+      "10000 Runes",
+      "Crimsonspill Crystal Tear",
+      "Speckled Hardtear"
+    ]
+  },
+  {
+    "slug": "tree-sentinel",
+    "name": "Tree Sentinel",
+    "image": "https://eldenring.fanapis.com/images/bosses/17f6992d42bl0i1v2mmti9t0qkl5yj.png",
+    "region": "Limgrave",
+    "location": "Limgrave road",
+    "description": "The heavily armored and highly decorated sentinel protects the tree. Who would dare oppose him?",
+    "drops": [
+      "3200 Runes",
+      "16000 Runes (NG+1)",
+      "Golden Halberd",
+      "Erdtree Greatshield",
+      "Hero's Rune [1]"
+    ]
   }
 ]

@@ -56,7 +56,7 @@ I checked `https://eldenring.fanapis.com/api/bosses` on 2026-09-17:
 ## 4. Data design
 
 ### 4.1 Boss data (from the API)
-- Fetch `/api/bosses?limit=200` once.
+- Fetch every page of `/api/bosses` (the API caps `limit` at 100, and there are 106 raw entries).
 - **Normalize** the results: trim names, build a `slug` (for example `starscourge-radahn`), and **remove duplicates by slug**.
 - **Cache** the normalized list in `localStorage` with a timestamp. Refetch only after 7 days.
 - **Fallback:** commit a snapshot (`src/data/bosses.snapshot.json`), created by a `npm run sync-data` script, and use it if the API is down. Fan APIs go offline without warning, so without this fallback the app would break.
