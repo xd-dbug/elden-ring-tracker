@@ -28,10 +28,11 @@ export default function BossDetail() {
   const { state, dispatch } = useTracker()
   const roles = useMemo(() => getBossRoles(state.selectedEnding, endings), [state.selectedEnding])
   const backTo = location.state?.backTo ?? '/bosses'
+  const backLabel = location.state?.backLabel ?? 'All bosses'
 
   const back = (
     <Link className="back-link" to={backTo}>
-      ← All bosses
+      ← {backLabel}
     </Link>
   )
 

@@ -3,16 +3,26 @@ import BossImage from './BossImage.jsx'
 
 /**
  * One boss in the list: image, name, region, and defeated / favorite / add-to-run controls.
+ * `backTo`/`backLabel` set where the detail page's back link goes.
  * `role` comes from getBossRoles; fixed-required bosses are always in the run, so they get no "+".
  */
-export default function BossRow({ boss, role, defeated, favorite, inRun, backTo, dispatch }) {
+export default function BossRow({
+  boss,
+  role,
+  defeated,
+  favorite,
+  inRun,
+  backTo,
+  backLabel,
+  dispatch,
+}) {
   const { slug, name } = boss
   const tag = role?.fixed ? 'Required' : role?.groups[0]?.short
 
   return (
     <li className={`boss-row${defeated ? ' is-defeated' : ''}`}>
       <BossImage key={boss.image} boss={boss} />
-      <Link className="boss-row-main" to={`/bosses/${slug}`} state={{ backTo }}>
+      <Link className="boss-row-main" to={`/bosses/${slug}`} state={{ backTo, backLabel }}>
         <span className="boss-name">{name}</span>
         <span className="boss-meta">
           {boss.region ?? 'Unknown region'}

@@ -413,3 +413,160 @@ a {
   margin: 0;
   padding-left: 20px;
 }
+
+/* ---- Run ---- */
+
+.button-link {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.run-ending {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.run-ending h2 {
+  margin: 0;
+}
+
+.eyebrow {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.ending-notes {
+  margin: 4px 0 0;
+  font-size: 14px;
+}
+
+.progress-group {
+  display: grid;
+  gap: 12px;
+  margin: 16px 0;
+}
+
+.progress-text {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 4px;
+  font-size: 14px;
+}
+
+.progress-track {
+  height: 10px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: var(--gold);
+  transition: width 0.3s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .progress-fill {
+    transition: none;
+  }
+}
+
+.section-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.section-head > a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  text-decoration: none;
+}
+
+.done-list summary {
+  display: flex;
+  align-items: center;
+  min-height: 44px;
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.done-list summary:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+}
+
+.group-card,
+.ending-card {
+  margin: 16px 0;
+  padding: 4px 12px 12px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+}
+
+.group-card h2,
+.ending-card h2 {
+  margin-top: 12px;
+}
+
+.group-card > p,
+.ending-card > p {
+  margin: 4px 0;
+  font-size: 14px;
+}
+
+.group-count {
+  color: var(--gold);
+  font-variant-numeric: tabular-nums;
+}
+
+.group-card.is-done {
+  border-color: var(--gold);
+}
+
+/* ---- Endings ---- */
+
+.ending-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.ending-card.is-selected {
+  border-color: var(--gold);
+}
+
+.ending-extra {
+  color: var(--text);
+}
+
+.ending-done {
+  font-variant-numeric: tabular-nums;
+}
+
+.confirm {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 8px;
+}
+
+.confirm p {
+  flex-basis: 100%;
+  margin: 8px 0 0;
+}
+
+.toggle.primary {
+  border-color: var(--gold);
+  background: #2e2717;
+  color: var(--gold);
+}
